@@ -19,23 +19,23 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
+global.owner = ['+94704472592']
+global.premium = ['+94704472592']
+global.ownernomer = '+94704472592'
 global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
+global.botname = '𝙥𝙧𝙖𝙢𝙚𝙨𝙝 𝙡𝙞𝙤𝙣 𝙗𝙤𝙩'
+global.footer = 'ⓟ_𝙥𝙧𝙖𝙢𝙚𝙨𝙝.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
+global.packname = '𝙥𝙧𝙖𝙢𝙚𝙨𝙝 𝙡𝙞𝙤𝙣 𝙗𝙤𝙩'
 global.author = '🐦Star Boy Nexus'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
+    success: 'හරි ✓',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
